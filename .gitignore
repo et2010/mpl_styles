@@ -1,0 +1,7 @@
+/*
+!/mpldata
+/mpldata/*
+!/mpldata/fonts
+/mpldata/fonts/*
+!/.gitignore
+!/.config

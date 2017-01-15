@@ -4,6 +4,7 @@
 figure.facecolor: white
 text.color: .15
 axes.labelcolor: .15
+legend.fontsize: medium
 legend.frameon: False
 legend.numpoints: 1
 legend.scatterpoints: 1
@@ -13,8 +14,8 @@ xtick.color: .15
 ytick.color: .15
 axes.axisbelow: True
 image.cmap: Greys
-font.family: sans-serif
-font.sans-serif: Arial, Liberation Sans, Bitstream Vera Sans, sans-serif
+font.family: serif
+font.serif: Simsun Times
 grid.linestyle: -
 lines.solid_capstyle: round
 

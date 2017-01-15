@@ -18,6 +18,8 @@ font.family: serif
 font.serif: Simsun Times
 grid.linestyle: -
 lines.solid_capstyle: round
+savefig.dpi: 96       # figure dots per inch
+savefig.bbox: tight
 
 # Seaborn whitegrid parameters
 axes.grid: True

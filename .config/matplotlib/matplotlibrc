@@ -72,7 +72,7 @@ backend      : tkagg
 
 # Where your matplotlib data lives if you installed to a non-default
 # location.  This is where the matplotlib fonts, bitmaps, etc reside
-datapath : /home/neoarch/mpldata
+#datapath : /home/neoarch/mpldata
 
 
 ### LINES
